@@ -10,7 +10,7 @@
   <br>
   <br>
 </div>
-<img src="/resource/instagram.jpg" width="100" style="border-radius: 50%; float:left; padding-right: 20px;"/> 
+<img src="/resources/instagram.jpg" width="100" style="border-radius: 50%; float:left; padding-right: 20px;"/> 
 
 
 
