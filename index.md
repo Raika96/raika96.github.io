@@ -6,7 +6,8 @@
   In the virutal world, I'm passionate about AI, Machine Learning, and video games.
   <br>
   In the real world, I love travelling, reading books, and music.
-
+  <br>
+  <br>
 </div>
 <div>
   <h1> Hello world </h2>
