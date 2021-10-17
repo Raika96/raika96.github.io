@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## ![Image](https://github.com/Raika96/raika96.github.io/blob/main/image3.jpg) Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Raika96/raika96.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://github.com/Raika96/raika96.github.io/blob/main/image3.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
