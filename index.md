@@ -10,7 +10,7 @@
   <br>
   <br>
 </div>
-<a href="https://www.instagram.com/hamidrt96/"><img src="/Resources/instagram.png" width="50" style="float:left; padding-right: 20px; padding-left:10px;"></a>
+<a href="https://www.instagram.com/hamidrt96/"><img src="/Resources/instagram.png" width="50" style="float:left; padding-right: 20px; padding-left:25px;"></a>
 <a href="https://www.linkedin.com/in/hamid-tale/"><img src="/Resources/Linkedin.png" width="50" style="float:left; padding-right: 20px;"></a>
 <br>
 <br>
