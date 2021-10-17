@@ -1,6 +1,6 @@
 
 
-<img src="/image3.jpg" width="200" ALIGN=”left” HSPACE=”10” style="border-radius: 50%"/> 
+<img src="/image3.jpg" width="200" align=”left” hspace=”10” style="border-radius: 50%"/> 
 
 In the virutal world, I'm passionate about AI, Machine Learning, and video games.
 <br>
