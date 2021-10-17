@@ -12,7 +12,7 @@
 </div>
 <a href="https://www.instagram.com/hamidrt96/"><img src="/Resources/instagram.png" width="50" style="float:left; padding-right: 20px;"></a>
 <a href="https://www.linkedin.com/in/hamid-tale/"><img src="/Resources/Linkedin.png" width="50" style=" padding-right: 20px;"></a>
-<a href="https://github.com/Raika96"><img src="/Resources/Github.png" width="50" style=" padding-right: 20px;"></a>
+<a href="https://github.com/Raika96"><img src="/Resources/Github.jpg" width="50" style=" padding-right: 20px;"></a>
 <br>
 <br>
 
