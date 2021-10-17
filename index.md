@@ -1,12 +1,11 @@
 
-<div>
 <img src="/image3.jpg" width="200" align="left" style="border-radius: 50%"/> 
 
 In the virutal world, I'm passionate about AI, Machine Learning, and video games.
 <br>
 In the real world, I love travelling, reading books, and music.
 <br>
-</div>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
