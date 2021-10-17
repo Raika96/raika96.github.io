@@ -1,11 +1,10 @@
 
-
+<br>
 <img src="/image3.jpg" width="200" padding="10px" style="border-radius: 50%; float:left"/> 
 
-You can use the [editor on GitHub](https://github.com/Raika96/raika96.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+In the virutal world, I'm passionate about AI, Machine Learning, and video games.
+In the real world, I love travelling, reading books, and music.
+</br>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
