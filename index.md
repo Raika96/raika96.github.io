@@ -9,7 +9,4 @@
   <br>
   <br>
 </div>
-<div>
-  <h2> Hello world </h2>
-  <p> asdf </p>
-</div>
+
