@@ -10,6 +10,6 @@
   <br>
 </div>
 <div>
-  <h1> Hello world </h2>
-  <p1> asdf </p1>
+  <h2> Hello world </h2>
+  <p> asdf </p>
 </div>
