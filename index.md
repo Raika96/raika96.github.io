@@ -1,5 +1,5 @@
 
-<img src="/image3.jpg" width="200" style="border-radius: 50%; float:left;"/> 
+<img src="/image3.jpg" width="200" style="border-radius: 50%; float:left; padding-right: 10px;"/> 
 
 In the virutal world, I'm passionate about AI, Machine Learning, and video games.
 <br>
