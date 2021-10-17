@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
 <img src="drawing.jpg" alt="drawing" width="200"/>
+![Image](https://github.com/Raika96/raika96.github.io/blob/main/image3.jpg)
 
 You can use the [editor on GitHub](https://github.com/Raika96/raika96.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
