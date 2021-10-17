@@ -1,4 +1,6 @@
-## ![Image](https://github.com/Raika96/raika96.github.io/blob/main/image3.jpg) Welcome to GitHub Pages
+## Welcome to GitHub Pages
+
+<img src="drawing.jpg" alt="drawing" width="200"/>
 
 You can use the [editor on GitHub](https://github.com/Raika96/raika96.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
