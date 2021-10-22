@@ -4,10 +4,11 @@ plugins:
   - jekyll-include-cache
 
 title: "Personal Website"
+teaser: "/Resources/Images/teaser.jpg"
 author:
   name     : "Hamid Taleghamar"
-  bio      : "Passionate about AI, Machine Learning, and video games.🎸📚"
-  avatar      : "/Resources/Images/avatar.jpg"
+  bio      : "Passionate about AI, Machine Learning, and video games+🎸📚"
+  avatar   : "/Resources/Images/avatar.jpg"
   location : "Toronto, Canada"
   links:
     - label: "GitHub"
