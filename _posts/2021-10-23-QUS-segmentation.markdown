@@ -8,10 +8,10 @@ author_profile: true
 classes: wide
 read_time: true
 
-excerpt:  " We showed segmenting tumor region could result to achieve better and more informative biomarkers for classification."
+excerpt:  "We showed segmenting tumor region could result to achieve better and more informative biomarkers for classification."
 header:
   overlay_image: "/assets/post1/paper2.jpg"
-  overlay_filter: 0.7 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 0.7
 
 ---
 
