@@ -10,7 +10,7 @@ read_time: true
 
 excerpt:  "We showed segmenting tumor region could result to achieve better and more informative biomarkers for classification."
 header:
-  overlay_image: "/assets/post1/paper2.jpg"
+  overlay_image: "/Resources/Images/background.jpg"
   overlay_filter: 0.7
 
 ---
