@@ -3,7 +3,7 @@ layout: single
 title: "Getting deeper in classification with segmentation"
 
 date:   2021-10-23
-categories: Papersum
+categories: PaperSumm
 author_profile: true
 classes: wide
 read_time: true

@@ -5,7 +5,7 @@ plugins:
 
 title: "Personal Website"
 teaser: "/Resources/Images/teaser.jpg"
-logo: " /assets/logo.jpg"
+logo: "/assets/logo.jpg"
 author:
   name     : "Hamid Taleghamar"
   bio      : "Passionate about AI, Machine Learning, and video games+🎸📚"
