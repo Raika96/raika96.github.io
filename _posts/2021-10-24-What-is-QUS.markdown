@@ -8,13 +8,13 @@ author_profile: true
 read_time: true
 classes: wide
 
-excerpt:  "In this post, I will provide a brief explaination about Quantitative ultrasound, and you can check the references for more information."
+excerpt:  "In this post, I will provide a brief explaination about Quantitative ultrasound."
 header:
   overlay_image: "/assets/posts/post2/PMback.png"
   overlay_filter: 0.7
 --- 
 
-When I started to research about Quantitative Ultrasound (QUS), information related to QUS was limited to journal papers and scientific books. That made it hard and time-consuming process to get familiar with this concept and get a quick introductory describtion about these techniques. In this post, I will provide a brief explaination about Quantitative ultrasound, and you can check the references for more information.
+When I started to research about Quantitative Ultrasound (QUS), information related to QUS was limited to journal papers and scientific books. That made it hard and time-consuming process to get familiar with this concept and get a quick introductory describtion about these techniques. In this post, I will provide a brief explaination about Quantitative ultrasound.
 
 <p align="center">
   <img alt="QUS" src="/assets/posts/post2/PM.png">
